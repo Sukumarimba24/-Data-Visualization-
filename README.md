@@ -1,1 +1,1 @@
-# -Data-Visualization-
+About the data:The data includes past event participation details such as attendance levels, time patterns, and participant behavior. By analyzing this data, future participation trends are forecasted to understand expected turnout. These insights help organizers plan events better by improving scheduling, resource allocation, and overall event management.
